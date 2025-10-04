@@ -64,3 +64,5 @@ If you want improvements (tests, options page, build pipeline, packaged release)
 ## License
 
 MIT — feel free to reuse and adapt. See the LICENSE file if you add one.
+
+![LeetCode Counter UI](Screenshot%202025-10-03%20200702.png)
