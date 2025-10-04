@@ -2,8 +2,6 @@
 
 A small browser extension (unpacked) that augments web pages — used to count or highlight items on LeetCode/problem pages. This README explains how to install, run, and modify the extension in your browser.
 
-If this description doesn't match your intent, provide a short note and I'll update the README accordingly.
-
 ## What this project contains
 
 - `manifest.json` — extension manifest (permissions, scripts, and metadata).
