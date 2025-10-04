@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "LeetCode Serial Numbers",
+  "version": "1.0",
+  "description": "Adds serial numbers to LeetCode problem lists",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["https://leetcode.com/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_idle"
+    }
+  ]
+}

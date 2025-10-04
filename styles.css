@@ -1,0 +1,7 @@
+.lc-serial-number {
+  font-weight: 700 !important;
+  color: #ef4444 !important;
+  font-size: 14px !important;
+  margin-right: 8px !important;
+  flex-shrink: 0 !important;
+}
